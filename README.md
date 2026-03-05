@@ -8,3 +8,7 @@ An advanced console-based Restaurant POS (Point of Sale) system built with Java.
 - Discount & Tax calculation
 - Payment validation with change calculation
 - Structured receipt printing
+
+## How to Run
+1. Clone this repository
+2. Compile and run Main.java
